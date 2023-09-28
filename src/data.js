@@ -16,6 +16,14 @@ export const projects = [
     link: "https://obiteljskamedicina.com",
   },
   {
+    title: "Exchange BTC",
+    subtitle: "React",
+    description:
+      "BTC price in different values",
+    image: "./exchange.PNG",
+    link: "https://exchange-weld.vercel.app/",
+  },
+  {
     title: "Finance manager",
     subtitle: "Kotlin",
     description:
